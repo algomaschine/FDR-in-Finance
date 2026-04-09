@@ -1,0 +1,24 @@
+OpenBLAS WARNING - could not determine the L2 cache size on this system, assuming 256k
+OpenBLAS WARNING - could not determine the L2 cache size on this system, assuming 256k
+======================================================================
+🚀 Starting FDR Analysis Dashboard
+======================================================================
+
+Dashboard features:
+  • Interactive parameter exploration
+  • Real-time distribution visualization
+  • FDR evolution analysis
+  • Sensitivity heatmaps
+  • Identification failure demonstration
+
+🌐 Opening dashboard at: http://127.0.0.1:8050
+
+Press CTRL+C to exit
+
+======================================================================
+Dash is running on http://127.0.0.1:8050/
+
+ * Serving Flask app 'fdR_dashboard'
+ * Debug mode: on
+OpenBLAS WARNING - could not determine the L2 cache size on this system, assuming 256k
+OpenBLAS WARNING - could not determine the L2 cache size on this system, assuming 256k
