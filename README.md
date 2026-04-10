@@ -199,6 +199,27 @@ Data from: [Open Asset Pricing Website](https://openassetpricing.com/) (Chen & Z
 
 3. **Implication**: The "factor zoo" should not be treated as a reliable map of investment opportunities
 
+## 🆕 React Version Available!
+
+A complete **React rewrite** of the dashboard is available in the `fdr-dashboard-react/` directory. The React version offers:
+
+- ⚡ **Instant responsiveness**: No server round-trips, 60fps interactions
+- 🚀 **Easy deployment**: Static hosting on Vercel, Netlify, or any CDN
+- 📱 **Better mobile support**: Responsive design out of the box
+- 💰 **Zero server costs**: Runs entirely in the browser
+
+### Quick Start (React Version)
+
+```bash
+cd fdr-dashboard-react
+npm install
+npm run dev
+```
+
+See [`fdr-dashboard-react/README.md`](fdr-dashboard-react/README.md) for complete installation and deployment instructions.
+
+---
+
 ## ✅ Testing & Verification
 
 All dashboard functions have been tested and verified:
